@@ -57,5 +57,5 @@ Program ini terdiri dari 2 kelas utama:
    * Tekan tombol "Cancel" untuk membersihkan form
   
 # Dokumentasi
-![Deskripsi Gambar](Screenshoots/SCREEN-RECORD.gif)
+![Deskripsi Gambar](Screenshots/SCREEN-RECORD.gif)
 
